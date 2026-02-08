@@ -53,16 +53,30 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+<div align="center">
+
+<a href="https://github.com/YourUsername">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  <img align="center" src="https://raw.githubusercontent.com/YourUsername/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+</details>
+
+</div>
+
+
 
 ```dart
 // About Me - organized
 
 class AboutMe {
   final Map<String, List<String>> skills = {
-    "ProgrammingLanguages": ["Python", "Java", "JavaScript", "C", "C++"],
+    "ProgrammingLanguages": ["Python", "Java", "JavaScript", "C"],
     "WebTechnologies": ["HTML", "CSS"],
-    "Databases": ["SQLite", "PostgreSQL"],
-    "Tools": ["Git", "VS Code"],
-    "Platforms": ["GNU/Linux", "Windows"]
+    "Databases": ["SQL", "PostgreSQL"],
+    "Tools": ["Git", "VS Code","Figma"],
+    "Platforms": ["Linux", "Windows"]
   };
 }
